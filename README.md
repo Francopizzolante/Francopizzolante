@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hola 👋, Soy franco pizzolante</h1>
 
 ## 🌱 Estudiante de: 
