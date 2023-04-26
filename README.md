@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Soy franco pizzolante</h1>
 
+![](https://github.com/Francopizzolante/Francopizzolante/blob/main/fondo github.jpg)
 ## 🌱 Estudiante de: 
 - Desarollo de software
 ## 📫 Como contactarme:
