@@ -24,5 +24,5 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
 <a href="https://es.wikipedia.org/wiki/C_Sharp" target="_blank" rel="noreferrer">
-  <img src="URL_DEL_LOGO_DE_C#" alt="csharp" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="40" height="40"/>
 </a>
