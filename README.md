@@ -6,6 +6,7 @@
 ## 📫 Como contactarme:
 - ![Email](https://img.shields.io/badge/francogpizzolantesuarez@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
 ## Habilidades tecnicas:
+- Manejo de ingles
 <h3 align="left">Lenguajes de programacion:</h3>
 <p align="left"> 
 <a href="https://es.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> 
