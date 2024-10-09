@@ -8,7 +8,7 @@
 ## Habilidades tecnicas:
 - Manejo de ingles
 <h3 align="left">Lenguajes de programacion:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; gap: 10px;"> 
 <a href="https://es.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>
