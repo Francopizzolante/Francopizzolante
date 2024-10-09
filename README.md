@@ -39,3 +39,4 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
+</p>
