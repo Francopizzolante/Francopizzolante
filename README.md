@@ -2,7 +2,7 @@
 
 ![](https://github.com/Francopizzolante/Francopizzolante/blob/main/fondo_github.jpg)
 ## 🌱 Estudiante de: 
-- Analista en sistemas
+- Licenciatura en informatica
 ## 📫 Como contactarme:
 - ![Email](https://img.shields.io/badge/francogpizzolantesuarez@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
 ## Habilidades tecnicas:
